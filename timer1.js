@@ -9,6 +9,5 @@ function simpleTimer (num) {
         process.stdout.write('\x07');
     }
 }
-//console.log(simpleTimer(args));
 
 simpleTimer(5);
